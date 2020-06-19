@@ -23,4 +23,4 @@ The Python Notebook provided in this repository is useful to read and analyze MM
 
 ---
 
-![What is this](img_biobeats.png)
+![image_biobeats](img_biobeats.png)
