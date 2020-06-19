@@ -4,19 +4,17 @@
 
 *Rossi, A.<sup>1</sup>, Da Pozzo, E.<sup>2</sup>, Menicagli, D.<sup>3</sup>, Tremolanti, C.<sup>2</sup>, Priami, C.<sup>1,4</sup>, Sirbu, A.<sup>1</sup>, Clifton, D.<sup>5</sup>, Martini, C.<sup>2</sup>, & Morelli, D.<sup>5,6</sup>*
 
----
+<sub><sup><sup>1</sup> Department of Computer Science, University of Pisa, Pisa, Italy</sub></sup>
 
-<sup>1</sup> Department of Computer Science, University of Pisa, Pisa, Italy
+<sub><sup><sup>2</sup> Department of Pharmacy, University of Pisa, Pisa, Italy</sub></sup>
 
-<sup>2</sup> Department of Pharmacy, University of Pisa, Pisa, Italy
+<sub><sup><sup>3</sup> MOMILab, IMT School for Advanced Studies Lucca, Lucca, Italy</sub></sup>
 
-<sup>3</sup> MOMILab, IMT School for Advanced Studies Lucca, Lucca, Italy
+<sub><sup><sup>4</sup> COSBI, Rovereto, Italy</sub></sup>
 
-<sup>4</sup> COSBI, Rovereto, Italy
+<sub><sup><sup>5</sup> Department of Engineering Science, University of Oxford, Oxford, UK</sub></sup>
 
-<sup>5</sup> Department of Engineering Science, University of Oxford, Oxford, UK
-
-<sup>6</sup> Biobeats Group LTD, London, UK
+<sub><sup><sup>6</sup> Biobeats Group LTD, London, UK</sub></sup>
 
 ---
 
