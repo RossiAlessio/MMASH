@@ -1,9 +1,11 @@
-## Multilevel Monitoring of Activity and Sleep in Healthy people
+## MMASH: Multilevel Monitoring of Activity and Sleep in Healthy people
 
+---
 
 *Rossi, A.<sup>1</sup>, Da Pozzo, E.<sup>2</sup>, Menicagli, D.<sup>3</sup>, Tremolanti, C.<sup>2</sup>, Priami, C.<sup>1,4</sup>, Sirbu, A.<sup>1</sup>, Clifton, D.<sup>5</sup>, Martini, C.<sup>2</sup>, & Morelli, D.<sup>5,6</sup>*
 
 ---
+
 <sup>1</sup> Department of Computer Science, University of Pisa, Pisa, Italy
 
 <sup>2</sup> Department of Pharmacy, University of Pisa, Pisa, Italy
