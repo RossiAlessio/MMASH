@@ -1,4 +1,4 @@
-## MMASH: Multilevel Monitoring of Activity and Sleep in Healthy people
+## MMASH: Multilevel Monitoring of Activity and Sleep in Healthy people - Data reading and analysis
 
 #### Rossi, A.<sup>1</sup>, Da Pozzo, E.<sup>2</sup>, Menicagli, D.<sup>3</sup>, Tremolanti, C.<sup>2</sup>, Priami, C.<sup>1,4</sup>, Sirbu, A.<sup>1</sup>, Clifton, D.<sup>5</sup>, Martini, C.<sup>2</sup>, & Morelli, D.<sup>5,6</sup>
 
