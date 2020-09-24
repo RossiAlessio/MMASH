@@ -7,7 +7,7 @@
 <sup>3</sup> MOMILab, IMT School for Advanced Studies Lucca, Lucca, Italy;
 <sup>4</sup> COSBI, Rovereto, Italy;
 <sup>5</sup> Department of Engineering Science, University of Oxford, Oxford, UK;
-<sup>6</sup> Biobeats Group LTD, London, UK.*
+<sup>6</sup> Huma Therapeutics Limited, London, UK.*
 
 ---
 
@@ -25,4 +25,8 @@ The Python Notebook provided in this repository is useful to read and analyze MM
 
 <p align="center">
   <img align="center" src=img_biobeats.png>
+</p>
+
+<p align="center">
+  <img align="center" src=huma_logo.png>
 </p>
