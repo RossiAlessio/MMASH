@@ -24,11 +24,11 @@ The Python Notebook provided in this repository is useful to read and analyze MM
 ---
 
 <p align="center">
-  <img align="center" src=huma _logo.png>
+  <img align="center" src=img_biobeats.png>
 </p>
 
 <p align="center">
-  <img align="center" src=img_biobeats.png>
+  <img align="center" src=https://github.com/RossiAlessio/MMASH/blob/master/huma%20_logo.png>
 </p>
 
 
