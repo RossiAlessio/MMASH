@@ -19,7 +19,7 @@ The Python Notebook provided in this repository is useful to read and analyze MM
 
 **Dataset:** Rossi, A., Da Pozzo, E., Menicagli, D., Tremolanti, C., Priami, C., Sirbu, A., Clifton, D., Martini, C., & Morelli, D. (2020). Multilevel Monitoring of Activity and Sleep in Healthy People (version 1.0.0). PhysioNet. https://doi.org/10.13026/cerq-fc86.
 
-**DataPaper link:** the link will be available soon 
+**DataPaper link:** the link will be available soon (MDPI Data accepted)
 
 ---
 
